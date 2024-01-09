@@ -22,6 +22,8 @@ const Todo = (props) => {
 
      return (
      <div>
+        <h1>NEW BRANCH</h1>
+        <h1>TEST2-COMP</h1>
      <input onChange={todo} type="text" />
      <button onClick={click}>CLICK</button>
           
